@@ -25,9 +25,10 @@
 
 
 <div>
- <video class="center" src="https://user-images.githubusercontent.com/103610781/163502613-c2d94f5c-0f41-4f28-af1f-ae327d8eb00a.mp4">⁪</video>
+ <video class="center" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;" src="https://user-images.githubusercontent.com/103610781/163502613-c2d94f5c-0f41-4f28-af1f-ae327d8eb00a.mp4">⁪</video>
 </div>
 
-#center {
-align="center"
-}
+
